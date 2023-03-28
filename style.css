@@ -1,0 +1,34 @@
+
+
+html,body {
+    height: 100%;
+  }
+  
+  #home {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .btn-email, .btn-instagram, .btn-twitter, .btn-youtube, .btn-substack {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-email:hover, .btn-instagram:hover, .btn-twitter:hover, .btn-youtube:hover, .btn-substack:hover {
+    background-color: #2e2e2e;
+    color: #ffffff;
+    transform: translateY(-2px);
+  }
+  
+  
+  
+
+  
