@@ -1,14 +1,10 @@
 
-
-html,body {
+body {
     height: 100%;
-    padding-top: 70px;
+    margin-top: 200px;
+
   }
   
-  #home {
-    height: 100%;
-    overflow: hidden;
-  }
 
   .btn-email, .btn-instagram, .btn-twitter, .btn-youtube, .btn-substack {
     display: inline-block;
