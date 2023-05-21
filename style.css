@@ -4,7 +4,11 @@ body {
     margin-top: 200px;
 
   }
-  
+
+  .videos {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 
   .btn-email, .btn-instagram, .btn-twitter, .btn-youtube, .btn-github {
     display: inline-block;
